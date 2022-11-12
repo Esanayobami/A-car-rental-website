@@ -646,7 +646,7 @@ font-size: var(--h3-font-size);
 .offer__img{
   position: absolute;
   max-width: initial;
-  width: 400px;
+  width: 401px;
   bottom: 2rem;
   right: -5.1rem;
 }
